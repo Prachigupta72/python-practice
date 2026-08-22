@@ -40,6 +40,7 @@ Below is the list of all python scripts in this repository along with their desc
 | [`12_reverse_number.py`](12_reverse_number.py) | Reverses the digits of a given integer. | Digit Manipulation |
 | [`13_palindrome_number.py`](13_palindrome_number.py) | Reverses a number and checks if it matches the original. | Number Palindrome Check |
 | [`14_armstrong_number.py`](14_armstrong_number.py) | Verifies if the sum of cubes of each digit is equal to the number itself. | Armstrong Number Check |
+| [15_prime_number.py](15_prime_number.py) | Checks whether a user-entered number is prime or not. | Prime Number Check |
 
 ---
 
